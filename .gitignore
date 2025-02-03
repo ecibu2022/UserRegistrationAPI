@@ -1,4 +1,4 @@
-.Webservice/.alpackages/
+Webservice/.alpackages/
 Webservice/.vscode/
 Webservice/.snapshots/
 Webservice/*.app
@@ -11,5 +11,3 @@ Webservice/app.json
 ./UserAPI/.snapshots/
 ./UserAPI/node_modules/
 ./UserAPI/package-lock.json
-
-Webservice/.alpackages
