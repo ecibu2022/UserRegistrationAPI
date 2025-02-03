@@ -1,0 +1,32 @@
+{
+  "id": "09b7dc5d-abd2-465d-8c88-bec15c8d47fa",
+  "name": "Publish Codeunit As Webservice",
+  "publisher": "Ecibu Michael",
+  "version": "1.0.0.0",
+  "brief": "Expose codeunit as webservice",
+  "description": "This codeunit has a method that is called by api to update data in business central automatically",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
