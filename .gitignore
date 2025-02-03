@@ -4,10 +4,8 @@ Webservice/.snapshots/
 Webservice/*.app
 Webservice/app.json
 
-./UserAPIClient/node_modules/
-./UserAPIClient/package-lock.json
+UserAPIClient/node_modules/
 
-./UserAPI/.alpackages/
-./UserAPI/.snapshots/
-./UserAPI/node_modules/
-./UserAPI/package-lock.json
+UserAPI/.alpackages/
+UserAPI/.snapshots/
+UserAPI/node_modules/
